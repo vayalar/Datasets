@@ -1,13 +1,13 @@
 Insurance Dataset Description
 ---------------
 
-These files contain Comma-Separated Values (.csv) format. This dataset represents the information collected from people about their age, occupation, workplace, favorite recreational activity and places where this is practiced. Such information corresponds to a set of attributes that can be of interest to an insurance company carrying out a risk assessment on potential clients. For example, to help identify groups with a higher risk of having an accident with the purpose of increasing the premium of their insurance policy.
+This dataset represents the information collected from people about their age, occupation, workplace, favorite recreational activity and places where this is practiced. Such information corresponds to a set of attributes that can be of interest to an insurance company carrying out a risk assessment on potential clients. For example, to help identify groups with a higher risk of having an accident with the purpose of increasing the premium of their insurance policy. This data was generated based on real information. For example, the salary class depends on the occupation and the number of years of work experience that a person has. Similarly, the gender distribution depends on a person's occupation (e.g., the nursing profession remains overwhelmingly female). Such information was obtained from the Payscale USA website (http://www.payscale.com/research/US/Country=United_States/Salary).
 
 ### Characteristics
 
 The generated datasets contain the following attributes:
 
-* Gender: 2 values generated based on the occupation. {female,male}
+* Gender: 2 values assigned based on the occupation. {female,male}
 * Age: 54 numeric values that range between 21-75. 
 * Semantic Age: 7 semantic concepts for age. {twenties,thirties,forties,fifties,sixties,seventies}
 * Occupation: 60 values. {advocate,agriculturist,architect,assistant_professor,associate_professor,ballet_dancer,baseball_coach,basketball_coach,beekeeper,breeder,cardiologist,chemist,chiropractor,choreographer,civil_engineer,clinical_psychologist,composer,copilot,criminologist,decorator,demonstrator,dentist,dishwasher,divorce_lawyer,electrician,esthetician,general_practitioner,graphic_designer,journalist,lecturer,magician,massager,math_teacher,mime,miner,movie_actor,music_teacher,nurse,nutritionist,opera_star,optometrist,pediatrician,pharmacist,physicist,pianist,pilot,post_doc,public_defender,school_principal,sculptor,software_engineer,street_cleaner,surgeon,tamer,tap_dancer,taster,veterinarian,violinist,visiting_professor,window_cleaner}
