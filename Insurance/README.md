@@ -1,11 +1,11 @@
 Insurance Dataset Description
 ---------------
 
-This dataset represents the information collected from people about their age, occupation, workplace, favorite recreational activity and places where this is practiced. Such information corresponds to a set of attributes that can be of interest to an insurance company carrying out a risk assessment on potential clients. For example, to help identify groups with a higher risk of having an accident with the purpose of increasing the premium of their insurance policy. This data was generated based on real information. For example, the salary class depends on the occupation and the number of years of work experience that a person has. Similarly, the gender distribution depends on a person's occupation (e.g., the nursing profession remains overwhelmingly female). Such information was obtained from the Payscale USA website (http://www.payscale.com/research/US/Country=United_States/Salary).
+This dataset represents the information collected from people about their age, occupation, workplace, favorite recreational activity and places where this is practiced. Such information corresponds to a set of attributes that can be of interest to an insurance company carrying out a risk assessment on potential clients. For example, to help identify groups with a higher risk of having an accident with the purpose of increasing the premium of their insurance policy. This data is based on real information obtained from the Payscale USA website (http://www.payscale.com/research/US/Country=United_States/Salary). For example, the salary class depends on the occupation and the number of years of work experience that a person has. Similarly, the gender distribution depends on a person's occupation (e.g., the nursing profession remains overwhelmingly female).
 
 ### Characteristics
 
-The generated datasets contain the following attributes:
+The dataset contains the following attributes:
 
 * Gender: 2 values assigned based on the occupation. {female,male}
 * Age: 54 numeric values that range between 21-75. 
